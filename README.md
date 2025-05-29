@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">📊  Stats:</h2>
+<h2 align="left">📊 Stats:</h2>
 
 ###
 
@@ -91,11 +91,8 @@
 
 ###
 
-<br clear="both">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheKing6488/TheKing6488/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheKing6488/TheKing6488/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/TheKing6488/TheKing6488/output/github-snake.svg" />
 </picture>
-###
